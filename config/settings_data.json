@@ -129,8 +129,6 @@
           "1570425931225": {
             "type": "logo",
             "settings": {
-              "logo": "shopify:\/\/shop_images\/alignblacklogo.png",
-              "logo-inverted": "",
               "desktop_logo_width": 190,
               "mobile_logo_width": 200
             }
@@ -160,7 +158,6 @@
           "1494292481350": {
             "type": "logo_social",
             "settings": {
-              "logo": "",
               "desktop_logo_height": 50,
               "container_width": 20
             }
@@ -240,7 +237,6 @@
           "1498501481980-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Facetune_07-10-2019-22-50-56.JPG",
               "focal_point": "center center",
               "slide_title1": "Muscle building workouts",
               "slide_title2": ""
@@ -249,7 +245,6 @@
           "1498501481980-1": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Facetune_19-09-2019-11-20-39.JPG",
               "focal_point": "center center",
               "slide_title1": "Home training programs",
               "slide_title2": ""
@@ -258,7 +253,6 @@
           "1498501481980-2": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Facetune_29-09-2019-15-56-49.JPG",
               "focal_point": "center center",
               "slide_title1": "Full body conditioning",
               "slide_title2": ""
@@ -294,7 +288,7 @@
         "type": "featured-collection-switcher",
         "settings": {
           "title": "Most popular",
-          "collection1": "frontpage",
+          "collection1": "icewear",
           "collection2": "",
           "per_row": 2,
           "view_all": false,
@@ -541,7 +535,6 @@
           "popup_seconds": 2,
           "popup_days": 2,
           "popup_title": "Sign up and save",
-          "popup_image": "",
           "popup_text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers. Include an image for extra impact.<\/p>",
           "close_text": "No thanks",
           "enable_newsletter": true,
@@ -614,8 +607,8 @@
       },
       "1570532289985": {
         "type": "text-and-image",
+        "disabled": true,
         "settings": {
-          "image": "shopify:\/\/shop_images\/Facetune_10-09-2019-16-20-08.JPG",
           "image_width": 500,
           "subtitle": "About me",
           "title": "My fitness journey",
@@ -633,7 +626,6 @@
             "type": "testimonial",
             "settings": {
               "testimonial": "<p>Simply genius, best workout program i have ever used. I cant wait for the next one!<\/p>",
-              "image": "",
               "author": "Kristina A"
             }
           },
@@ -641,7 +633,6 @@
             "type": "testimonial",
             "settings": {
               "testimonial": "<p>I never thought it would be possible to get my body back after pregnancy. Your amazing.<\/p>\n<p><\/p>\n<p><\/p>",
-              "image": "",
               "author": "Maria S"
             }
           },
@@ -649,7 +640,6 @@
             "type": "testimonial",
             "settings": {
               "testimonial": "<p>This has become my fitness guide. I have seen so much change and I feel strong.&nbsp;<\/p>",
-              "image": "",
               "author": "Galia D"
             }
           }
@@ -678,7 +668,6 @@
               "link": "shopify:\/\/collections\/all",
               "link_text": "Optional button",
               "text_align": "vertical-bottom horizontal-left",
-              "image": "shopify:\/\/shop_images\/Facetune_29-09-2019-15-56-49.JPG",
               "focal_point": "center center"
             }
           },
@@ -691,7 +680,6 @@
               "link": "shopify:\/\/pages\/workouts",
               "link_text": "Optional button",
               "text_align": "vertical-bottom horizontal-right",
-              "image": "shopify:\/\/shop_images\/Facetune_19-09-2019-11-20-39.JPG",
               "focal_point": "center center"
             }
           },
@@ -704,7 +692,6 @@
               "link": "shopify:\/\/collections\/all",
               "link_text": "Optional button",
               "text_align": "vertical-bottom horizontal-right",
-              "image": "shopify:\/\/shop_images\/Facetune_18-08-2019-15-03-09_2.JPG",
               "focal_point": "center center"
             }
           }
@@ -1008,7 +995,8 @@
         },
         "1566999869051": {
           "type": "featured-collection-switcher",
-          "settings": {}
+          "settings": {
+          }
         },
         "1499789718857": {
           "type": "featured-collections",
@@ -1164,11 +1152,13 @@
           "blocks": {
             "product-image-row": {
               "type": "image-row",
-              "settings": {}
+              "settings": {
+              }
             },
             "product-text-and-image": {
               "type": "text-and-image",
-              "settings": {}
+              "settings": {
+              }
             },
             "product-background-image-text": {
               "type": "background-image-text",
@@ -1178,11 +1168,13 @@
             },
             "product-text-columns": {
               "type": "text-columns",
-              "settings": {}
+              "settings": {
+              }
             },
             "product-hero-video": {
               "type": "hero-video",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -1192,14 +1184,16 @@
             "product-text-columns",
             "product-hero-video"
           ],
-          "settings": {}
+          "settings": {
+          }
         },
         "page-sections-template": {
           "type": "page-sections-template",
           "blocks": {
             "page-fading-images": {
               "type": "fading-images",
-              "settings": {}
+              "settings": {
+              }
             },
             "page-rich-text": {
               "type": "rich-text",
@@ -1211,7 +1205,8 @@
             },
             "page-text-columns": {
               "type": "text-columns",
-              "settings": {}
+              "settings": {
+              }
             },
             "page-background-image-text": {
               "type": "background-image-text",
@@ -1221,7 +1216,8 @@
             },
             "page-featured-collection": {
               "type": "featured-collection",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -1231,7 +1227,8 @@
             "page-background-image-text",
             "page-featured-collection"
           ],
-          "settings": {}
+          "settings": {
+          }
         }
       },
       "content_for_index": [
@@ -1453,7 +1450,8 @@
         },
         "1566999869051": {
           "type": "featured-collection-switcher",
-          "settings": {}
+          "settings": {
+          }
         },
         "1499789718857": {
           "type": "featured-collections",
@@ -1826,7 +1824,8 @@
         },
         "1566999869051": {
           "type": "featured-collection-switcher",
-          "settings": {}
+          "settings": {
+          }
         },
         "1499789718857": {
           "type": "featured-collections",
