@@ -664,24 +664,26 @@
           "1577879393150-0": {
             "type": "image",
             "settings": {
-              "title": "Endless\npossibilities.",
+              "title": "CampEasy Store",
               "title_size": 80,
-              "subheading": "Bring your brand to life",
+              "subheading": "Bringing Campeasy Shop to life",
               "link": "shopify:\/\/collections\/all",
               "link_text": "Optional button",
               "text_align": "vertical-bottom horizontal-left",
+              "image": "shopify:\/\/shop_images\/lennart-9024254.jpg",
               "focal_point": "center center"
             }
           },
           "1577879393150-1": {
             "type": "image",
             "settings": {
-              "title": "Two line\nslide titles.",
+              "title": "Nordic Knit Sweaters",
               "title_size": 80,
               "subheading": "And big, beautiful imagery",
               "link": "shopify:\/\/pages\/workouts",
               "link_text": "Optional button",
               "text_align": "vertical-bottom horizontal-right",
+              "image": "shopify:\/\/shop_images\/Nordic_Handknitted.jpg",
               "focal_point": "center center"
             }
           },
