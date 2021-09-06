@@ -690,12 +690,13 @@
           "1570618512055": {
             "type": "image",
             "settings": {
-              "title": "Two line\nslide title.",
+              "title": "Nordic\nJumpers.",
               "title_size": 80,
-              "subheading": "And an optional subheading",
+              "subheading": "must-have for a campervan drive",
               "link": "shopify:\/\/collections\/all",
               "link_text": "Optional button",
               "text_align": "vertical-bottom horizontal-right",
+              "image": "shopify:\/\/shop_images\/Adventure_Jumpers.jpg",
               "focal_point": "center center"
             }
           }
