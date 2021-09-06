@@ -664,11 +664,11 @@
           "1577879393150-0": {
             "type": "image",
             "settings": {
-              "title": "CampEasy Store",
+              "title": "Easy Shopping",
               "title_size": 80,
               "subheading": "drive your destiny with campeasy store",
               "link": "shopify:\/\/collections\/all",
-              "link_text": "Optional button",
+              "link_text": "shop now",
               "text_align": "vertical-bottom horizontal-left",
               "image": "shopify:\/\/shop_images\/lennart-9024254.jpg",
               "focal_point": "center center"
