@@ -699,12 +699,26 @@
               "image": "shopify:\/\/shop_images\/Adventure_Jumpers.jpg",
               "focal_point": "center center"
             }
+          },
+          "5e4bdf96-4dc7-461c-843d-a93fcafc17b6": {
+            "type": "image",
+            "settings": {
+              "title": "rA's\nPassion.",
+              "title_size": 80,
+              "subheading": "when you meet icelandic wheater",
+              "link": "",
+              "link_text": "Optional button",
+              "text_align": "vertical-bottom horizontal-left",
+              "image": "shopify:\/\/shop_images\/Icelandic_Raincoat.jpg",
+              "focal_point": "top right"
+            }
           }
         },
         "block_order": [
           "1577879393150-0",
           "1577879393150-1",
-          "1570618512055"
+          "1570618512055",
+          "5e4bdf96-4dc7-461c-843d-a93fcafc17b6"
         ],
         "settings": {
           "section_height": "750px",
