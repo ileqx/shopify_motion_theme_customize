@@ -97,7 +97,7 @@
     "share_pinterest": true,
     "homepage_social_image": "",
     "favicon": "",
-    "show_breadcrumbs": false,
+    "show_breadcrumbs": true,
     "search_type": "product,article,page",
     "checkout_header_image": "",
     "checkout_logo_image": "",
