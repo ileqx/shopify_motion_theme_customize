@@ -58,7 +58,7 @@
     "product_save_amount": true,
     "product_save_type": "percent",
     "product_zoom_enable": true,
-    "quick_shop_enable": false,
+    "quick_shop_enable": true,
     "quick_shop_text": "Quick view",
     "product_hover_image": false,
     "product_grid_image_size": "square",
